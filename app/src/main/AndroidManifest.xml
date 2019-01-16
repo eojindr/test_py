@@ -20,10 +20,7 @@
         </activity>
 
         <activity android:name=".BaseActivity" />
-        <activity
-            android:name=".EventActivity"
-            android:label="@string/title_activity_event"
-            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EventActivity" />
         <activity android:name=".CommunityActivity" />
         <activity android:name=".SortActivity" />
         <activity android:name=".MapActivity"></activity>
